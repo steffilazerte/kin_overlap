@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/593257800.svg)](https://zenodo.org/badge/latestdoi/593257800)
-![publication](https://img.shields.io/badge/status-in%20review-orange)
+[![DOI](https://zenodo.org/badge/610515459.svg)](https://zenodo.org/badge/latestdoi/610515459)
+![publication](https://img.shields.io/badge/status-in%20prep-red)
 
 # Asocial Franklin’s ground squirrels (Poliocitellus franklinii) avoid close kin
 
